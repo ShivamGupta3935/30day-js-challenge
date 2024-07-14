@@ -63,7 +63,7 @@ console.log( "Number :", numb);
 //Task 6 :- Try reassigning a variable declare with const and the error 
 
 const chai = "Chai and code is unique"
-
+//hie
  console.log( 'chai', chai);
   
 //  chai = "This is copy channel of chai" 
