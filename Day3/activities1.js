@@ -22,3 +22,6 @@ if (age >= 18) {
 } else {
     console.log( "person is not eligible for vote ");
 }
+
+
+
